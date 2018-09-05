@@ -4,6 +4,7 @@ main(){
 	if (int a == b){
 		return 0;
 	}
+	//Do them if must!
 	return 1;
 }
 
